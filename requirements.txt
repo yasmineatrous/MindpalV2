@@ -1,0 +1,9 @@
+streamlit==1.29.0
+openai==1.3.9
+langchain==0.0.350
+html2text==2020.1.16
+beautifulsoup4==4.12.2
+yt_dlp==2023.11.16
+pydub==0.25.1
+tiktoken==0.5.2
+python-dotenv
